@@ -1,0 +1,4 @@
+CustomerID,Gender,SeniorCitizen,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+1001,Male,0,12,29.85,358.20,Month-to-month,Electronic check,Yes
+1002,Female,0,24,56.95,1366.80,One year,Credit card,No
+1003,Male,1,2,75.50,151.00,Month-to-month,Mailed check,Yes
