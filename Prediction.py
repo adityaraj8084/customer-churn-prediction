@@ -1,1 +1,0 @@
-Customer will stay.
